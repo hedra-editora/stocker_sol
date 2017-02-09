@@ -1,0 +1,15 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Sob o pôr do sol\emph {, por{} Rafael Rocca dos Santos}}{7}
+\contentsline {section}{Breve bibliografia e sugestões de leitura}{19}
+\contentsline {part}{Sob o por do sol}{47}
+\contentsline {chapter}{Dedicatória}{49}
+\contentsline {chapter}{Sob o pôr do sol}{51}
+\contentsline {chapter}{O Príncipe da Rosa}{61}
+\contentsline {chapter}{O Gigante Invisível}{85}
+\contentsline {chapter}{O Construtor de Sombras}{103}
+\contentsline {chapter}{Como o 7 ficou louco}{121}
+\contentsline {chapter}{Mentiras e lírios}{141}
+\contentsline {chapter}{O castelo do rei}{147}
+\contentsline {chapter}{A criança maravilhosa}{173}
+\contentsfinish 
