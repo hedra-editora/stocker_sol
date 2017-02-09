@@ -1,0 +1,7 @@
+PWD /home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/MENTIRASELIRIOS3438.tex
+OUTPUT /home/hipatia/Dropbox/LATEX/git/NOVOS/stocker_sol/MENTIRASELIRIOS3438.log
