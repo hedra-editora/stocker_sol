@@ -1,6 +1,7 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
 \contentsline {chapter}{Sob o pôr do sol\emph {, por{} Rafael Rocca dos Santos}}{7}
+\contentsline {section}{Breve bibliografia e sugestões de leitura}{19}
 \contentsline {part}{Sob o por do sol}{47}
 \contentsline {chapter}{Dedicatória}{49}
 \contentsline {chapter}{Sob o pôr do sol}{51}

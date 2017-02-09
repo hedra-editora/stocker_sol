@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2015.5.6)  9 FEB 2017 13:49
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/dev/Debian) (preloaded format=xelatex 2015.5.6)  9 FEB 2017 15:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1539,27 +1539,27 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 
-Overfull \hbox (1.23997pt too wide) detected at line 9
+Overfull \hbox (1.23997pt too wide) detected at line 10
  \EU1/LinuxLibertineO(0)/m/n/12 103
  []
 
 
-Overfull \hbox (1.23997pt too wide) detected at line 10
+Overfull \hbox (1.23997pt too wide) detected at line 11
  \EU1/LinuxLibertineO(0)/m/n/12 121
  []
 
 
-Overfull \hbox (1.23997pt too wide) detected at line 11
+Overfull \hbox (1.23997pt too wide) detected at line 12
  \EU1/LinuxLibertineO(0)/m/n/12 141
  []
 
 
-Overfull \hbox (1.23997pt too wide) detected at line 12
+Overfull \hbox (1.23997pt too wide) detected at line 13
  \EU1/LinuxLibertineO(0)/m/n/12 147
  []
 
 
-Overfull \hbox (1.23997pt too wide) detected at line 13
+Overfull \hbox (1.23997pt too wide) detected at line 14
  \EU1/LinuxLibertineO(0)/m/n/12 173
  []
 
@@ -1575,16 +1575,50 @@ Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 1.
- [7] [8] [9] [10] [11] [12]
-[13] [14] [15] [16] [17] [18]
-Overfull \hbox (19.99182pt too wide) in paragraph at lines 379--381
-[]\EU1/LinuxLibertineO(0)/m/n/12 [10] O nome evoca a pureza da personagem, rela
-cionando-
- []
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
 
-[19]
-Unknown feature `protrusion=default' in font `Linux Libertine O Semibold'.
-Unknown feature `expansion=default' in font `Linux Libertine O Semibold'.
+Overfull \vbox (12.90683pt too high) has occurred while \output is active []
+
+
+[7]
+Overfull \vbox (12.65598pt too high) has occurred while \output is active []
+
+
+[8] [9] [10]
+Overfull \vbox (19.60797pt too high) has occurred while \output is active []
+
+
+[11]
+Overfull \vbox (19.156pt too high) has occurred while \output is active []
+
+
+[12]
+Overfull \vbox (12.15604pt too high) has occurred while \output is active []
+
+
+[13]
+Overfull \vbox (0.89603pt too high) has occurred while \output is active []
+
+
+[14]
+Overfull \vbox (7.65598pt too high) has occurred while \output is active []
+
+
+[15]
+Overfull \vbox (18.89415pt too high) has occurred while \output is active []
+
+
+[16] [17] [18]
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 383.
+Unknown feature `protrusion=default' in font `Linux Libertine O'.
+Unknown feature `expansion=default' in font `Linux Libertine O'.
+ [19]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 )
@@ -1600,62 +1634,63 @@ Unknown feature `expansion=default' in font `Linux Libertine O Semibold Italic'
 .
  [20] [21]
 File: ./img/02.png Graphic file (type QTm)
- <use  "./img/02.png" > [22]
+ <use  "./img/02.png" >
+[22]
 File: ./img/03.png Graphic file (type QTm)
-
-<use  "./img/03.png" > [23]
+ <use  "./img/03.png" > [23]
 File: ./img/04.png Graphic file (type QTm)
  <use  "./img/04.png" > [24]
 File: ./img/05.png Graphic file (type QTm)
- <use  "./img/05.png" >
-[25]
+
+<use  "./img/05.png" > [25]
 File: ./img/06.png Graphic file (type QTm)
  <use  "./img/06.png" > [26]
 File: ./img/07.png Graphic file (type QTm)
- <use  "./img/07.png" > [27]
+ <use  "./img/07.png" >
+[27]
 File: ./img/08.png Graphic file (type QTm)
-
-<use  "./img/08.png" > [28]
+ <use  "./img/08.png" > [28]
 File: ./img/09.png Graphic file (type QTm)
  <use  "./img/09.png" > [29]
 File: ./img/10.png Graphic file (type QTm)
- <use  "./img/10.png" >
-[30]
+
+<use  "./img/10.png" > [30]
 File: ./img/11.png Graphic file (type QTm)
  <use  "./img/11.png" > [31]
 File: ./img/12.png Graphic file (type QTm)
- <use  "./img/12.png" > [32]
+ <use  "./img/12.png" >
+[32]
 File: ./img/13.png Graphic file (type QTm)
-
-<use  "./img/13.png" > [33]
+ <use  "./img/13.png" > [33]
 File: ./img/14.png Graphic file (type QTm)
  <use  "./img/14.png" > [34]
 File: ./img/15.png Graphic file (type QTm)
- <use  "./img/15.png" >
-[35]
+
+<use  "./img/15.png" > [35]
 File: ./img/16.png Graphic file (type QTm)
  <use  "./img/16.png" > [36]
 File: ./img/17.png Graphic file (type QTm)
- <use  "./img/17.png" > [37]
+ <use  "./img/17.png" >
+[37]
 File: ./img/18.png Graphic file (type QTm)
-
-<use  "./img/18.png" > [38]
+ <use  "./img/18.png" > [38]
 File: ./img/19.png Graphic file (type QTm)
  <use  "./img/19.png" > [39]
 File: ./img/20.png Graphic file (type QTm)
- <use  "./img/20.png" >
-[40]
+
+<use  "./img/20.png" > [40]
 File: ./img/21.png Graphic file (type QTm)
  <use  "./img/21.png" > [41]
 File: ./img/22.png Graphic file (type QTm)
- <use  "./img/22.png" > [42]
+ <use  "./img/22.png" >
+[42]
 File: ./img/23.png Graphic file (type QTm)
-
-<use  "./img/23.png" > [43]
+ <use  "./img/23.png" > [43]
 File: ./img/24.png Graphic file (type QTm)
  <use  "./img/24.png" > [44]
 File: ./img/25.png Graphic file (type QTm)
- <use  "./img/25.png" >
+
+<use  "./img/25.png" >
 
 LaTeX Warning: Float too large for page by 33.17754pt on input line 28.
 
@@ -1689,7 +1724,10 @@ File: ./img/26.png Graphic file (type QTm)
 
 
 
-] [48] (./DEDICATORIA3948.tex)
+] [48] (./DEDICATORIA3948.tex
+Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
+Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
+)
 (./SOBOPORDOSOL3433.tex [49
 
 ] [50
@@ -1746,22 +1784,12 @@ Underfull \hbox (badness 1184) in paragraph at lines 155--159
 [90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101])
 (./OCONSTRUTORDESOMBRAS3436.tex [102] [103
 
-] [104]
-Underfull \hbox (badness 3514) in paragraph at lines 71--76
-[]\EU1/LinuxLibertineO(0)/m/n/12 A pobrezinha Zaya chorou muito amargamente
- []
+] [104] [105] [106] [107] [108]
+[109] [110] [111] [112] [113] [114] [115] [116] [117] [118])
+(./COMOO7FICOULOUCO3437.tex [119] [120
 
-[105] [106] [107]
-Underfull \hbox (badness 1184) in paragraph at lines 155--159
-\EU1/LinuxLibertineO(0)/m/n/12 rolada em um grande robe de névoas que a cobria,
-
- []
-
-[108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119])
-(./COMOO7FICOULOUCO3437.tex [120] [121
-
-] [122] [123] [124] [125] [126] [127]
-[128] [129]
+] [121] [122] [123] [124] [125] [126]
+[127] [128] [129]
 Overfull \hbox (2.50885pt too wide) in paragraph at lines 389--394
 []\EU1/LinuxLibertineO(0)/m/n/12 “\EU1/LinuxLibertineO(0)/m/it/12 Bem\EU1/Linux
 LibertineO(0)/m/n/12 ”, seguiu o professor, “\EU1/LinuxLibertineO(0)/m/it/12 o 
@@ -1814,8 +1842,6 @@ AED: lastpage setting LastPage
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-Unknown feature `protrusion=default' in font `Linux Libertine O'.
-Unknown feature `expansion=default' in font `Linux Libertine O'.
 
 Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
@@ -1829,10 +1855,7 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
  [199]
 Unknown feature `protrusion=default' in font `Linux Libertine O Italic'.
 Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
- [200] [201])
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 8.
- [202
+ [200] [201]) [202
 
 
 ]
@@ -1841,12 +1864,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 25520 strings out of 493727
- 472027 string characters out of 6147891
- 672530 words of memory out of 5000000
- 28314 multiletter control sequences out of 15000+600000
- 15454 words of font info for 92 fonts, out of 8000000 for 9000
+ 25530 strings out of 493727
+ 472656 string characters out of 6147891
+ 673530 words of memory out of 5000000
+ 28321 multiletter control sequences out of 15000+600000
+ 15592 words of font info for 95 fonts, out of 8000000 for 9000
  1352 hyphenation exceptions out of 8191
- 64i,12n,79p,10356b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,12n,79p,10356b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on LIVRO.pdf (202 pages).
