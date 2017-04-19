@@ -1,8 +1,8 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Sob o pôr do sol\emph {, por{} Rafael Rocca dos Santos}}{7}
+\contentsline {chapter}{Apresentação}{7}
 \contentsline {section}{Breve bibliografia e sugestões de leitura}{19}
-\contentsline {part}{Sob o por do sol}{21}
+\contentsline {part}{Sob o pôr do sol}{21}
 \contentsline {chapter}{Dedicatória}{23}
 \contentsline {chapter}{Sob o pôr do sol}{25}
 \contentsline {chapter}{O Príncipe da Rosa}{35}
@@ -11,5 +11,5 @@
 \contentsline {chapter}{Como o 7 ficou louco}{107}
 \contentsline {chapter}{Mentiras e lírios}{129}
 \contentsline {chapter}{O castelo do Rei}{137}
-\contentsline {chapter}{A criança maravilhosa}{161}
+\contentsline {chapter}{A Criança Maravilhosa}{161}
 \contentsfinish 
