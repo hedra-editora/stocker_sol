@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.4.7)  19 APR 2017 16:27
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.4.7)  19 APR 2017 18:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1597,45 +1597,50 @@ File: ./img/05.png Graphic file (type QTm)
 ] [65
 
 ]
-[66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80]
-[81] [82]) (./OCONSTRUTORDESOMBRAS3436.tex [83] [84
+[66] [67] [68]
+File: ./img/28.png Graphic file (type QTm)
+ <use  "./img/28.png" > [69] [70] [71
 
-]
+] [72] [73] [74] [75]
+[76] [77] [78] [79] [80] [81] [82] [83]) (./OCONSTRUTORDESOMBRAS3436.tex
+[84]
 File: ./img/07.png Graphic file (type QTm)
- <use  "./img/07.png" >
-[85] [86] [87
+ <use  "./img/07.png" > [85
+
+] [86] [87
 
 ]
 File: ./img/08.png Graphic file (type QTm)
  <use  "./img/08.png" > [88] [89]
 File: ./img/09.png Graphic file (type QTm)
- <use  "./img/09.png" > [90
 
-]
-[91
+<use  "./img/09.png" > [90
+
+] [91
 
 ] [92] [93] [94] [95] [96]
 File: ./img/10.png Graphic file (type QTm)
- <use  "./img/10.png" > [97] [98] [99
 
-] [100]
-[101] [102] [103] [104]
+<use  "./img/10.png" > [97] [98] [99
+
+] [100] [101] [102] [103] [104]
 File: ./img/11.png Graphic file (type QTm)
- <use  "./img/11.png" > [105] [106])
-(./COMOO7FICOULOUCO3437.tex [107
+
+<use  "./img/11.png" > [105] [106]) (./COMOO7FICOULOUCO3437.tex [107
 
 
 ]
 File: ./img/12.png Graphic file (type QTm)
- <use  "./img/12.png" > [108] [109]
-File: ./img/26.png Graphic file (type QTm)
 
-<use  "./img/26.png" > [110
+<use  "./img/12.png" > [108] [109]
+File: ./img/26.png Graphic file (type QTm)
+ <use  "./img/26.png" > [110
 
 ] [111] [112
 
-] [113] [114] [115] [116] [117] [118]
-[119] [120] [121] [122] [123] [124] [125] [126]
+]
+[113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124]
+[125] [126]
 Underfull \hbox (badness 1038) in paragraph at lines 751--754
 []\EU1/LinuxLibertineO(0)/m/n/12 O Corvo começou a atirar Setes nele tão rápido
 
@@ -1675,11 +1680,15 @@ Overfull \hbox (0.67947pt too wide) in paragraph at lines 463--470
 ando
  []
 
-[152] [153] [154] [155] [156] [157] [158]) (./ACRIANCAMARAVILHOSA3440.tex
-[159] [160
+[152] [153] [154] [155] [156] [157]
+File: ./img/29.png Graphic file (type QTm)
+ <use  "./img/29.png" > [158] [159
 
-] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170]
-[171] [172] [173]
+])
+(./ACRIANCAMARAVILHOSA3440.tex [160] [161
+
+] [162] [163] [164] [165] [166]
+[167] [168] [169] [170] [171] [172] [173]
 File: ./img/musica.pdf Graphic file (type QTm)
  <use  "./img/musica.pdf" >
 Underfull \hbox (badness 6001) in paragraph at lines 449--452
@@ -1723,10 +1732,10 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 
  (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)) ) 
 Here is how much of TeX's memory you used:
- 25900 strings out of 493589
- 466062 string characters out of 6148801
+ 25906 strings out of 493589
+ 466116 string characters out of 6148801
  638264 words of memory out of 5000000
- 28792 multiletter control sequences out of 15000+600000
+ 28796 multiletter control sequences out of 15000+600000
  15584 words of font info for 94 fonts, out of 8000000 for 9000
  1371 hyphenation exceptions out of 8191
  64i,12n,81p,10345b,515s stack positions out of 5000i,500n,10000p,200000b,80000s
